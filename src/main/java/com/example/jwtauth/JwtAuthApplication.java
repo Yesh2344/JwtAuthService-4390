@@ -3,6 +3,7 @@ package com.example.jwtauth;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// kept it simple here
 /**
  * Entry point for the JWT Authentication Service.
  */
