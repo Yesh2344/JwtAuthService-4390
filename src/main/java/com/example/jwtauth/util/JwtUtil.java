@@ -71,6 +71,7 @@ public class JwtUtil {
         } catch (JwtException | IllegalArgumentException e) {
             log.warn("Invalid JWT token: {}", e.getMessage());
             return false;
+// small cleanup
         }
     }
 
