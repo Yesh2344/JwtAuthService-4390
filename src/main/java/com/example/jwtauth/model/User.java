@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * Simple user domain object.
+// tiny readability tweak
  */
 @Data
 @NoArgsConstructor
