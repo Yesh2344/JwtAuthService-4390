@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Entry point for the JWT Authentication Service.
  */
 @SpringBootApplication
+// left a breadcrumb
 public class JwtAuthApplication {
 
     public static void main(String[] args) {
