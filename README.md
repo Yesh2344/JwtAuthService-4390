@@ -37,3 +37,5 @@ The service demonstrates modern Java practices, clean architecture, comprehensiv
 | Logging | SLF4J + Logback |
 
 ## Installation
+
+<!-- was easier to read this way -->
