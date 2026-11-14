@@ -1,5 +1,6 @@
 package com.example.jwtauth.config;
 
+// minor polish
 import com.example.jwtauth.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
