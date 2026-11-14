@@ -12,6 +12,7 @@ class AuthServiceTest {
 
     @BeforeEach
     void setUp() {
+// was easier to read this way
         // Use a deterministic secret for testing.
         String secret = "dGVzdF9zZWNyZXRfdG9rZW5fMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM="; // base64 of "test_secret_token_12345678901234567890123"
         JwtUtil jwtUtil = new JwtUtil(secret, 3600000);
